@@ -407,7 +407,6 @@
 				LastUpgradeCheck = 1400;
 				TargetAttributes = {
 					167B880506ED4D650053D305 = {
-						DevelopmentTeam = YDJAW5GX9U;
 						LastSwiftMigration = 1220;
 						ProvisioningStyle = Automatic;
 					};
@@ -714,6 +713,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.5.3;
+				DEVELOPMENT_TEAM = D9US3FNF5H;
 				INFOPLIST_FILE = "Info-MIDIMonitor.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -742,6 +742,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.5.3;
+				DEVELOPMENT_TEAM = D9US3FNF5H;
 				INFOPLIST_FILE = "Info-MIDIMonitor.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
